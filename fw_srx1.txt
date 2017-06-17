@@ -1,2 +1,5 @@
 zone 1 mns
 	allow mgmt
+
+zone 2 mns
+	allow l2vpn
