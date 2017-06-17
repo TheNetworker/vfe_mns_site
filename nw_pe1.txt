@@ -1,0 +1,3 @@
+hostname mns_pe1
+int lo0
+	ip add 10.10.10.1/24
