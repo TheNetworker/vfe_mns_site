@@ -1,2 +1,8 @@
 zone 1 mns
 	allow mgmt
+
+zone 2 mns
+	allow l2vpn
+
+zone 3 mns
+	allow l2vpn again (Wrong)
