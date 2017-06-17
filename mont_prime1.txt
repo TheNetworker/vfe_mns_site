@@ -1,1 +1,2 @@
 {{ monitor mgmt traffic }}
+{{ monitor l2vpn traffic }}
